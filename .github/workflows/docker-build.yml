@@ -25,5 +25,5 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: seu-usuario/meu-flask:latest
+          tags: henriquefukuya/docker-flask:latest
 
